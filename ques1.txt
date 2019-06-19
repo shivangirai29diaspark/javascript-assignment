@@ -1,0 +1,8 @@
+javascript assignment
+date 19-june-2019
+
+question no 1:
+https://jsfiddle.net/shivangirai/fhLg57jr/24/
+
+question no 2:
+https://jsfiddle.net/shivangirai/rsqf1nvj/38/
