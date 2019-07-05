@@ -1,0 +1,74 @@
+[{
+
+ "name": "vongi",
+
+ "image": "https://github.com/getify/You-Dont-Know-JS",
+
+ "location": "pune"
+
+}, {
+
+ "name": "Shivangi Rai",
+
+ "image": "https://www.codeschool.com/courses/shaping-up-with-angular-js",
+
+ "location": "Sagar" 
+
+}, {
+
+ "name": "Akshita Panchal",
+
+ "image": "https://www.khanacademy.org/computing/computer-programming/html-js-jquery",
+
+ "location": "Indore" 
+
+}, {
+
+ "name": "pragya patel",
+
+ "image": "https://github.com/getify/You-Dont-Know-JS",
+
+ "location": "nagpur"
+
+}, {
+
+ "name": "Shameen aziz",
+
+ "image": "https://www.codeschool.com/courses/shaping-up-with-angular-js",
+
+ "location": "bhopal" 
+
+}, {
+
+ "name": "supriya dubey",
+
+ "image": "https://www.khanacademy.org/computing/computer-programming/html-js-jquery",
+
+ "location": "Indore" 
+
+}, {
+
+ "name": "monty",
+
+ "image": "https://github.com/getify/You-Dont-Know-JS",
+
+ "location": "nasik"
+
+}, {
+
+ "name": "utkarsh",
+
+ "image": "https://www.codeschool.com/courses/shaping-up-with-angular-js",
+
+ "location": "bombay" 
+
+}, {
+
+ "name": "vipul surana",
+
+ "image": "https://www.khanacademy.org/computing/computer-programming/html-js-jquery",
+
+ "location": "noida" 
+
+}
+]
